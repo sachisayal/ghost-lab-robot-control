@@ -1,0 +1,3 @@
+<launch>
+  <node name="ultrasonic_sensor" pkg="ultrasonic_sensor" type="ultrasonic_sensor_node.py" output="screen"/>
+</launch>
